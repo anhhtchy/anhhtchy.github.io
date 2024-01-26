@@ -1,4 +1,4 @@
 baseURL = 'https://anhhtchy.github.io/'
 languageCode = 'vi-vn'
-title = 'The Anh&apos;s blog on programming'
+title = "The Anh's blog on programming"
 theme = 'ananke'
